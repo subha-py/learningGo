@@ -1,0 +1,10 @@
+groupname: workers
+ips:
+  - "10.2.195.190"
+  - "10.2.195.191"
+  - "10.2.199.200"
+  - "10.2.199.198"
+username: support
+password: Cohe$1ty1234st1
+cmd: ls
+
